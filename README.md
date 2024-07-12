@@ -8,8 +8,8 @@
 
 ## Descripción
 
-"Coctelis" es una aplicación web diseñada para los amantes de los cócteles. Nuestro objetivo fue crear una plataforma que ofreciera recetas de cócteles de manera accesible y atractiva, brindando una experiencia única a los usuarios. También, cabe señalar que la aplicación brinda una tienda virtual en donde los usuarios registrados podrán realizar compras de artículos para armar el mejor cóctel, insumos como jugos, alcohol, copas, etc.
- La aplicación "Coctelis" se destaca por su interfaz intuitiva y atractiva, que brinda una experiencia de usuario excepcional. El diseño responsive nos permitió garantizar que la aplicación se adapte perfectamente a diferentes dispositivos, desde computadoras de escritorio hasta dispositivos móviles. Esto asegura que los usuarios puedan acceder y disfrutar de la aplicación desde cualquier lugar y en cualquier momento.
+"Coctelis" es una aplicación web diseñada para los amantes de los cócteles. Mi objetivo fue crear una plataforma que ofreciera recetas de cócteles de manera accesible y atractiva, brindando una experiencia única a los usuarios. También, cabe señalar que la aplicación brinda una tienda virtual en donde los usuarios registrados podrán realizar compras de artículos para armar el mejor cóctel, insumos como jugos, alcohol, copas, etc.
+ La aplicación "Coctelis" se destaca por su interfaz intuitiva y atractiva, que brinda una experiencia de usuario excepcional. El diseño responsive me permitió garantizar que la aplicación se adapte perfectamente a diferentes dispositivos, desde computadoras de escritorio hasta dispositivos móviles. Esto asegura que los usuarios puedan acceder y disfrutar de la aplicación desde cualquier lugar y en cualquier momento.
 
 - Desarrollada en **React**, **Html** **Css**.
 - Lenguaje de programación **JavaScript**.
@@ -62,12 +62,11 @@ $ npm start dev
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con el equipo de Coctelis:
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 
 - Email: fabiomarioluna@gmail.com
-- Sitio web: [https://OptimusWeb.com](https://OptimusWeb.com) (sitio web ficticio)
-
+  
 ¡Disfruta de Coctelis y bebe con responsabilidad!
 
 ---
-© 2023 OptimusWeb
+© 2023 
